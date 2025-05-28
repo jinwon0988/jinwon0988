@@ -2,10 +2,10 @@
 
 ## ✨ About Me
 
-안녕하세요! 코드로 가치를 만드는 개발자 **김진원**입니다.  
-코드는 단순한 기술이 아니라, 사람들에게 가치를 전달하는 수단이라고 생각합니다.  
-기능 구현에 그치지 않고, 사용자에게 어떤 경험을 줄 수 있을지, 어떤 문제를 해결할 수 있을지 고민하며 개발합니다.  
-웹, 앱, 인프라까지 두루 이해하며, **서비스 전체를 바라보는 풀스택 개발자**로 성장하고자 노력하고 있습니다.  
+* 안녕하세요! 코드로 가치를 만드는 개발자 **김진원**입니다.  
+* 코드는 단순한 기술이 아니라, **사람들에게 가치를 전달하는 수단**이라고 생각합니다.  
+* 기능 구현에 그치지 않고, 사용자에게 어떤 경험을 줄 수 있을지, 어떤 문제를 해결할 수 있을지 고민하며 개발합니다.  
+* 웹, 앱, 인프라까지 두루 이해하며, **서비스 전체를 바라보는 풀스택 개발자**로 성장하고자 노력하고 있습니다.  
 
 ---
 
@@ -34,13 +34,13 @@
 
 ---
 
-## 🏆 solved.ac Tier
+## 🔗 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinwon0988)](https://solved.ac/profile/jinwon0988)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![jinwon0988's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwon0988&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwon0988&layout=compact)
