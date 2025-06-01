@@ -3,7 +3,6 @@
 [![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-blue?style=flat&logo=readme&logoColor=white)](https://www.rallit.com/resumes/1600378@jinwon0988/%EA%B9%80%EC%A7%84%EC%9B%90)
 [![Blog](https://img.shields.io/badge/Blog-black?style=flat&logo=notion&logoColor=white)](https://modern-mass-22a.notion.site/1fdebd9d2aa48014ac83e35e61d78d78?source=copy_link)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jin1_k_/)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:jinwon0988@naver.com)
 
 ## ✨ About Me
 
