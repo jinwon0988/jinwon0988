@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B74FD&width=435&lines=Hello%2C+World!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+[![Blog](https://img.shields.io/badge/Blog-black?style=flat&logo=notion&logoColor=white)](https://modern-mass-22a.notion.site/1fdebd9d2aa48014ac83e35e61d78d78?source=copy_link)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jin1_k_/)
 
 ## ✨ About Me
