@@ -41,7 +41,7 @@
 
 ## 🔗 Algorithm
 
-![jinwon0988's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jinwon0988)
+[![jinwon0988's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jinwon0988)](https://solved.ac/profile/jinwon0988)
 
 ---
 
