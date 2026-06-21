@@ -35,18 +35,3 @@
 📱 **App**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
----
-
-## 🔗 Algorithm
-
-[![jinwon0988's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jinwon0988)](https://solved.ac/profile/jinwon0988)
-
-<!--
----
-
-## 📊 Stats
-
-![jinwon0988's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwon0988&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwon0988&layout=compact)
--->
